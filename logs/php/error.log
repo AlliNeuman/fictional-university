@@ -2,3 +2,5 @@
 [11-Mar-2019 20:32:05 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /app/public/wp-content/themes/fictional-university-theme/index.php on line 4
 [11-Mar-2019 21:12:06 UTC] PHP Parse error:  syntax error, unexpected '$count' (T_VARIABLE) in /app/public/wp-content/themes/fictional-university-theme/index.php on line 4
 [11-Mar-2019 21:12:16 UTC] PHP Parse error:  syntax error, unexpected '$count' (T_VARIABLE) in /app/public/wp-content/themes/fictional-university-theme/index.php on line 4
+[12-Mar-2019 03:39:36 UTC] PHP Parse error:  syntax error, unexpected 'wp_enqueue_style' (T_STRING) in /app/public/wp-content/themes/fictional-university-theme/functions.php on line 5
+[12-Mar-2019 03:59:59 UTC] PHP Parse error:  syntax error, unexpected '>' in /app/public/wp-content/themes/fictional-university-theme/index.php on line 3

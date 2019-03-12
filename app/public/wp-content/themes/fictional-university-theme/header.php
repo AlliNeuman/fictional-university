@@ -2,8 +2,6 @@
 <html lang="en" dir="ltr">
   <head>
     <?php wp_head(); ?>
-    <meta charset="utf-8">
-    <title></title>
   </head>
   <body>
     <header class="site-header">
