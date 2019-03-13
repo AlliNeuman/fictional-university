@@ -5,3 +5,4 @@
 [12-Mar-2019 03:39:36 UTC] PHP Parse error:  syntax error, unexpected 'wp_enqueue_style' (T_STRING) in /app/public/wp-content/themes/fictional-university-theme/functions.php on line 5
 [12-Mar-2019 03:59:59 UTC] PHP Parse error:  syntax error, unexpected '>' in /app/public/wp-content/themes/fictional-university-theme/index.php on line 3
 [13-Mar-2019 14:54:27 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /app/public/wp-content/themes/fictional-university-theme/page.php on line 8
+[13-Mar-2019 15:33:08 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /app/public/wp-content/themes/fictional-university-theme/page.php on line 20
