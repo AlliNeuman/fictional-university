@@ -88,3 +88,14 @@ Stack trace:
 [27-Mar-2019 16:48:24 UTC] PHP Warning:  Use of undefined constant the_permalink - assumed 'the_permalink' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/fictional-university-theme/archive-event.php on line 26
 [27-Mar-2019 16:48:24 UTC] PHP Warning:  Use of undefined constant the_permalink - assumed 'the_permalink' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/fictional-university-theme/archive-event.php on line 26
 [27-Mar-2019 16:48:24 UTC] PHP Warning:  Use of undefined constant the_permalink - assumed 'the_permalink' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/fictional-university-theme/archive-event.php on line 26
+[27-Mar-2019 19:44:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_post_type_archive_linke() in /app/public/wp-content/themes/fictional-university-theme/single-event.php:18
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/fictional-university-theme/single-event.php on line 18
+[27-Mar-2019 19:44:47 UTC] PHP Warning:  Use of undefined constant the_permalink - assumed 'the_permalink' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/fictional-university-theme/index.php on line 26
+[27-Mar-2019 19:44:47 UTC] PHP Warning:  Use of undefined constant the_permalink - assumed 'the_permalink' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/fictional-university-theme/index.php on line 26
+[27-Mar-2019 19:44:47 UTC] PHP Warning:  Use of undefined constant the_permalink - assumed 'the_permalink' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/fictional-university-theme/index.php on line 26
+[27-Mar-2019 19:44:47 UTC] PHP Warning:  Use of undefined constant the_permalink - assumed 'the_permalink' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/fictional-university-theme/index.php on line 26
