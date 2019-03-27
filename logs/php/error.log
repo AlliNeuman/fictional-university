@@ -85,3 +85,6 @@ Stack trace:
 [20-Mar-2019 19:44:42 UTC] PHP Warning:  Use of undefined constant the_permalink - assumed 'the_permalink' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/fictional-university-theme/index.php on line 26
 [25-Mar-2019 17:07:20 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'university_post_types' not found or invalid function name in /app/public/wp-includes/class-wp-hook.php on line 286
 [25-Mar-2019 17:10:16 UTC] PHP Warning:  Error while sending QUERY packet. PID=19180 in /app/public/wp-includes/wp-db.php on line 2007
+[27-Mar-2019 16:48:24 UTC] PHP Warning:  Use of undefined constant the_permalink - assumed 'the_permalink' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/fictional-university-theme/archive-event.php on line 26
+[27-Mar-2019 16:48:24 UTC] PHP Warning:  Use of undefined constant the_permalink - assumed 'the_permalink' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/fictional-university-theme/archive-event.php on line 26
+[27-Mar-2019 16:48:24 UTC] PHP Warning:  Use of undefined constant the_permalink - assumed 'the_permalink' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/fictional-university-theme/archive-event.php on line 26
