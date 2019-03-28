@@ -234,3 +234,13 @@ Stack trace:
 #3 /app/public/index.php(17): require('/app/public/wp-...')
 #4 {main}
   thrown in /app/public/wp-includes/query.php on line 26
+[28-Mar-2019 19:37:58 UTC] PHP Warning:  Use of undefined constant the_permalink - assumed 'the_permalink' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/fictional-university-theme/archive.php on line 28
+[28-Mar-2019 19:37:58 UTC] PHP Warning:  Use of undefined constant the_permalink - assumed 'the_permalink' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/fictional-university-theme/archive.php on line 28
+[28-Mar-2019 19:37:58 UTC] PHP Warning:  Use of undefined constant the_permalink - assumed 'the_permalink' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/fictional-university-theme/archive.php on line 28
+[28-Mar-2019 19:46:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_post_type_archive_linke() in /app/public/wp-content/themes/fictional-university-theme/single-program.php:18
+Stack trace:
+#0 /app/public/wp-includes/template-loader.php(77): include()
+#1 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#2 /app/public/index.php(17): require('/app/public/wp-...')
+#3 {main}
+  thrown in /app/public/wp-content/themes/fictional-university-theme/single-program.php on line 18
