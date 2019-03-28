@@ -218,3 +218,11 @@ Stack trace:
 #2 /app/public/index.php(17): require('/app/public/wp-...')
 #3 {main}
   thrown in /app/public/wp-content/themes/fictional-university-theme/single-event.php on line 18
+[28-Mar-2019 18:55:59 UTC] PHP Warning:  Use of undefined constant the_permalink - assumed 'the_permalink' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/fictional-university-theme/index.php on line 26
+[28-Mar-2019 18:56:02 UTC] PHP Warning:  Use of undefined constant the_permalink - assumed 'the_permalink' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/fictional-university-theme/index.php on line 26
+[28-Mar-2019 18:56:05 UTC] PHP Warning:  Use of undefined constant the_permalink - assumed 'the_permalink' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/fictional-university-theme/index.php on line 26
+[28-Mar-2019 18:56:07 UTC] PHP Warning:  Use of undefined constant the_permalink - assumed 'the_permalink' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/fictional-university-theme/index.php on line 26
+[28-Mar-2019 18:58:55 UTC] PHP Warning:  Use of undefined constant the_permalink - assumed 'the_permalink' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/fictional-university-theme/index.php on line 26
+[28-Mar-2019 18:58:55 UTC] PHP Warning:  Use of undefined constant the_permalink - assumed 'the_permalink' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/fictional-university-theme/index.php on line 26
+[28-Mar-2019 18:58:55 UTC] PHP Warning:  Use of undefined constant the_permalink - assumed 'the_permalink' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/fictional-university-theme/index.php on line 26
+[28-Mar-2019 18:58:55 UTC] PHP Warning:  Use of undefined constant the_permalink - assumed 'the_permalink' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/fictional-university-theme/index.php on line 26
