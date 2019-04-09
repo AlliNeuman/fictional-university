@@ -9,20 +9,20 @@ pageBanner(array(
 
 
 <div class="container container--narrow page-section">
-  <div class="acf-map"> 
-<?php
-  while (have_posts()) {
-    the_post();
-    $mapLocation = get_field('map_location');
-    ?>
-    <div class="marker" data-lat="<?php echo $mapLocation['lat']?>" data-lng="<?php echo $mapLocation['lng'];?>">
 
-    </div>
-  <?php }
 
-  echo paginate_links();
+  <?php
+  $mapWest = get_field("map_west_location");
+
+  echo "<h3>Downtown West Location</h3>";
+  echo $mapWest;
 ?>
 </div>
+<?php
+
+echo paginate_links();
+?>
+
 
 </div>
 <?php

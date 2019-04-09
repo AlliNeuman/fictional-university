@@ -319,3 +319,140 @@ Stack trace:
 [02-Apr-2019 17:51:47 UTC] PHP Warning:  Use of undefined constant get_post_type - assumed 'get_post_type' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/fictional-university-theme/header.php on line 20
 [02-Apr-2019 17:51:55 UTC] PHP Warning:  Use of undefined constant get_post_type - assumed 'get_post_type' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/fictional-university-theme/header.php on line 20
 [02-Apr-2019 17:54:10 UTC] PHP Warning:  Use of undefined constant get_post_type - assumed 'get_post_type' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/fictional-university-theme/header.php on line 20
+[09-Apr-2019 16:40:11 UTC] PHP Warning:  Use of undefined constant get_post_type - assumed 'get_post_type' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/fictional-university-theme/header.php on line 20
+[09-Apr-2019 16:41:02 UTC] PHP Warning:  Use of undefined constant get_post_type - assumed 'get_post_type' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/fictional-university-theme/header.php on line 20
+[09-Apr-2019 16:44:46 UTC] PHP Warning:  Use of undefined constant get_post_type - assumed 'get_post_type' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/fictional-university-theme/header.php on line 20
+[09-Apr-2019 17:02:02 UTC] PHP Warning:  htmlspecialchars() expects parameter 1 to be string, array given in /app/public/wp-includes/formatting.php on line 4091
+[09-Apr-2019 17:06:00 UTC] PHP Warning:  Use of undefined constant get_post_type - assumed 'get_post_type' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/fictional-university-theme/header.php on line 20
+[09-Apr-2019 17:06:06 UTC] PHP Warning:  Use of undefined constant get_post_type - assumed 'get_post_type' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/fictional-university-theme/header.php on line 20
+[09-Apr-2019 17:06:06 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /app/public/wp-includes/shortcodes.php on line 180
+[09-Apr-2019 17:06:06 UTC] PHP Warning:  preg_match_all() expects parameter 2 to be string, array given in /app/public/wp-includes/shortcodes.php on line 189
+[09-Apr-2019 17:06:06 UTC] PHP Warning:  array_intersect(): Argument #2 is not an array in /app/public/wp-includes/shortcodes.php on line 190
+[09-Apr-2019 17:06:06 UTC] PHP Warning:  preg_split() expects parameter 2 to be string, array given in /app/public/wp-includes/formatting.php on line 621
+[09-Apr-2019 17:06:06 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /app/public/wp-includes/formatting.php on line 779
+[09-Apr-2019 17:06:06 UTC] PHP Warning:  preg_match() expects parameter 2 to be string, array given in /app/public/wp-includes/class-wp-embed.php on line 407
+[09-Apr-2019 17:06:06 UTC] PHP Warning:  preg_match_all() expects parameter 2 to be string, array given in /app/public/wp-includes/formatting.php on line 246
+[09-Apr-2019 17:06:06 UTC] PHP Warning:  array_intersect(): Argument #2 is not an array in /app/public/wp-includes/formatting.php on line 247
+[09-Apr-2019 17:06:06 UTC] PHP Warning:  preg_split() expects parameter 2 to be string, array given in /app/public/wp-includes/formatting.php on line 252
+[09-Apr-2019 17:06:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-includes/formatting.php on line 254
+[09-Apr-2019 17:06:06 UTC] PHP Warning:  implode(): Invalid arguments passed in /app/public/wp-includes/formatting.php on line 314
+[09-Apr-2019 17:07:54 UTC] PHP Warning:  Use of undefined constant get_post_type - assumed 'get_post_type' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/fictional-university-theme/header.php on line 20
+[09-Apr-2019 17:07:54 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /app/public/wp-includes/shortcodes.php on line 180
+[09-Apr-2019 17:07:54 UTC] PHP Warning:  preg_match_all() expects parameter 2 to be string, array given in /app/public/wp-includes/shortcodes.php on line 189
+[09-Apr-2019 17:07:54 UTC] PHP Warning:  array_intersect(): Argument #2 is not an array in /app/public/wp-includes/shortcodes.php on line 190
+[09-Apr-2019 17:07:54 UTC] PHP Warning:  preg_split() expects parameter 2 to be string, array given in /app/public/wp-includes/formatting.php on line 621
+[09-Apr-2019 17:07:54 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /app/public/wp-includes/formatting.php on line 779
+[09-Apr-2019 17:07:54 UTC] PHP Warning:  preg_match() expects parameter 2 to be string, array given in /app/public/wp-includes/class-wp-embed.php on line 407
+[09-Apr-2019 17:07:54 UTC] PHP Warning:  preg_match_all() expects parameter 2 to be string, array given in /app/public/wp-includes/formatting.php on line 246
+[09-Apr-2019 17:07:54 UTC] PHP Warning:  array_intersect(): Argument #2 is not an array in /app/public/wp-includes/formatting.php on line 247
+[09-Apr-2019 17:07:54 UTC] PHP Warning:  preg_split() expects parameter 2 to be string, array given in /app/public/wp-includes/formatting.php on line 252
+[09-Apr-2019 17:07:54 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-includes/formatting.php on line 254
+[09-Apr-2019 17:07:54 UTC] PHP Warning:  implode(): Invalid arguments passed in /app/public/wp-includes/formatting.php on line 314
+[09-Apr-2019 17:09:04 UTC] PHP Warning:  Use of undefined constant get_post_type - assumed 'get_post_type' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/fictional-university-theme/header.php on line 20
+[09-Apr-2019 17:09:04 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /app/public/wp-includes/shortcodes.php on line 180
+[09-Apr-2019 17:09:04 UTC] PHP Warning:  preg_match_all() expects parameter 2 to be string, array given in /app/public/wp-includes/shortcodes.php on line 189
+[09-Apr-2019 17:09:04 UTC] PHP Warning:  array_intersect(): Argument #2 is not an array in /app/public/wp-includes/shortcodes.php on line 190
+[09-Apr-2019 17:09:04 UTC] PHP Warning:  preg_split() expects parameter 2 to be string, array given in /app/public/wp-includes/formatting.php on line 621
+[09-Apr-2019 17:09:04 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /app/public/wp-includes/formatting.php on line 779
+[09-Apr-2019 17:09:04 UTC] PHP Warning:  preg_match() expects parameter 2 to be string, array given in /app/public/wp-includes/class-wp-embed.php on line 407
+[09-Apr-2019 17:09:04 UTC] PHP Warning:  preg_match_all() expects parameter 2 to be string, array given in /app/public/wp-includes/formatting.php on line 246
+[09-Apr-2019 17:09:04 UTC] PHP Warning:  array_intersect(): Argument #2 is not an array in /app/public/wp-includes/formatting.php on line 247
+[09-Apr-2019 17:09:04 UTC] PHP Warning:  preg_split() expects parameter 2 to be string, array given in /app/public/wp-includes/formatting.php on line 252
+[09-Apr-2019 17:09:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-includes/formatting.php on line 254
+[09-Apr-2019 17:09:04 UTC] PHP Warning:  implode(): Invalid arguments passed in /app/public/wp-includes/formatting.php on line 314
+[09-Apr-2019 17:10:45 UTC] PHP Warning:  Use of undefined constant get_post_type - assumed 'get_post_type' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/fictional-university-theme/header.php on line 20
+[09-Apr-2019 17:10:45 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /app/public/wp-includes/shortcodes.php on line 180
+[09-Apr-2019 17:10:45 UTC] PHP Warning:  preg_match_all() expects parameter 2 to be string, array given in /app/public/wp-includes/shortcodes.php on line 189
+[09-Apr-2019 17:10:45 UTC] PHP Warning:  array_intersect(): Argument #2 is not an array in /app/public/wp-includes/shortcodes.php on line 190
+[09-Apr-2019 17:10:45 UTC] PHP Warning:  preg_split() expects parameter 2 to be string, array given in /app/public/wp-includes/formatting.php on line 621
+[09-Apr-2019 17:10:45 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /app/public/wp-includes/formatting.php on line 779
+[09-Apr-2019 17:10:45 UTC] PHP Warning:  preg_match() expects parameter 2 to be string, array given in /app/public/wp-includes/class-wp-embed.php on line 407
+[09-Apr-2019 17:10:45 UTC] PHP Warning:  preg_match_all() expects parameter 2 to be string, array given in /app/public/wp-includes/formatting.php on line 246
+[09-Apr-2019 17:10:45 UTC] PHP Warning:  array_intersect(): Argument #2 is not an array in /app/public/wp-includes/formatting.php on line 247
+[09-Apr-2019 17:10:45 UTC] PHP Warning:  preg_split() expects parameter 2 to be string, array given in /app/public/wp-includes/formatting.php on line 252
+[09-Apr-2019 17:10:45 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-includes/formatting.php on line 254
+[09-Apr-2019 17:10:45 UTC] PHP Warning:  implode(): Invalid arguments passed in /app/public/wp-includes/formatting.php on line 314
+[09-Apr-2019 17:12:42 UTC] PHP Warning:  Use of undefined constant get_post_type - assumed 'get_post_type' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/fictional-university-theme/header.php on line 20
+[09-Apr-2019 17:12:42 UTC] PHP Warning:  Illegal string offset 'lat' in /app/public/wp-content/themes/fictional-university-theme/archive-campus.php on line 18
+[09-Apr-2019 17:12:42 UTC] PHP Warning:  Illegal string offset 'lng' in /app/public/wp-content/themes/fictional-university-theme/archive-campus.php on line 18
+[09-Apr-2019 17:12:42 UTC] PHP Warning:  Illegal string offset 'address' in /app/public/wp-content/themes/fictional-university-theme/archive-campus.php on line 20
+[09-Apr-2019 17:12:42 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /app/public/wp-includes/shortcodes.php on line 180
+[09-Apr-2019 17:12:42 UTC] PHP Warning:  preg_match_all() expects parameter 2 to be string, array given in /app/public/wp-includes/shortcodes.php on line 189
+[09-Apr-2019 17:12:42 UTC] PHP Warning:  array_intersect(): Argument #2 is not an array in /app/public/wp-includes/shortcodes.php on line 190
+[09-Apr-2019 17:12:42 UTC] PHP Warning:  preg_split() expects parameter 2 to be string, array given in /app/public/wp-includes/formatting.php on line 621
+[09-Apr-2019 17:12:42 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /app/public/wp-includes/formatting.php on line 779
+[09-Apr-2019 17:12:42 UTC] PHP Warning:  preg_match() expects parameter 2 to be string, array given in /app/public/wp-includes/class-wp-embed.php on line 407
+[09-Apr-2019 17:12:42 UTC] PHP Warning:  preg_match_all() expects parameter 2 to be string, array given in /app/public/wp-includes/formatting.php on line 246
+[09-Apr-2019 17:12:42 UTC] PHP Warning:  array_intersect(): Argument #2 is not an array in /app/public/wp-includes/formatting.php on line 247
+[09-Apr-2019 17:12:42 UTC] PHP Warning:  preg_split() expects parameter 2 to be string, array given in /app/public/wp-includes/formatting.php on line 252
+[09-Apr-2019 17:12:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-includes/formatting.php on line 254
+[09-Apr-2019 17:12:42 UTC] PHP Warning:  implode(): Invalid arguments passed in /app/public/wp-includes/formatting.php on line 314
+[09-Apr-2019 17:12:42 UTC] PHP Warning:  Illegal string offset 'lat' in /app/public/wp-content/themes/fictional-university-theme/archive-campus.php on line 18
+[09-Apr-2019 17:12:42 UTC] PHP Warning:  Illegal string offset 'lng' in /app/public/wp-content/themes/fictional-university-theme/archive-campus.php on line 18
+[09-Apr-2019 17:12:42 UTC] PHP Warning:  Illegal string offset 'address' in /app/public/wp-content/themes/fictional-university-theme/archive-campus.php on line 20
+[09-Apr-2019 17:13:06 UTC] PHP Warning:  Use of undefined constant get_post_type - assumed 'get_post_type' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/fictional-university-theme/header.php on line 20
+[09-Apr-2019 17:13:06 UTC] PHP Warning:  Illegal string offset 'lat' in /app/public/wp-content/themes/fictional-university-theme/archive-campus.php on line 18
+[09-Apr-2019 17:13:06 UTC] PHP Warning:  Illegal string offset 'lng' in /app/public/wp-content/themes/fictional-university-theme/archive-campus.php on line 18
+[09-Apr-2019 17:13:06 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /app/public/wp-includes/shortcodes.php on line 180
+[09-Apr-2019 17:13:06 UTC] PHP Warning:  preg_match_all() expects parameter 2 to be string, array given in /app/public/wp-includes/shortcodes.php on line 189
+[09-Apr-2019 17:13:06 UTC] PHP Warning:  array_intersect(): Argument #2 is not an array in /app/public/wp-includes/shortcodes.php on line 190
+[09-Apr-2019 17:13:06 UTC] PHP Warning:  preg_split() expects parameter 2 to be string, array given in /app/public/wp-includes/formatting.php on line 621
+[09-Apr-2019 17:13:06 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /app/public/wp-includes/formatting.php on line 779
+[09-Apr-2019 17:13:06 UTC] PHP Warning:  preg_match() expects parameter 2 to be string, array given in /app/public/wp-includes/class-wp-embed.php on line 407
+[09-Apr-2019 17:13:06 UTC] PHP Warning:  preg_match_all() expects parameter 2 to be string, array given in /app/public/wp-includes/formatting.php on line 246
+[09-Apr-2019 17:13:06 UTC] PHP Warning:  array_intersect(): Argument #2 is not an array in /app/public/wp-includes/formatting.php on line 247
+[09-Apr-2019 17:13:06 UTC] PHP Warning:  preg_split() expects parameter 2 to be string, array given in /app/public/wp-includes/formatting.php on line 252
+[09-Apr-2019 17:13:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-includes/formatting.php on line 254
+[09-Apr-2019 17:13:06 UTC] PHP Warning:  implode(): Invalid arguments passed in /app/public/wp-includes/formatting.php on line 314
+[09-Apr-2019 17:13:06 UTC] PHP Warning:  Illegal string offset 'lat' in /app/public/wp-content/themes/fictional-university-theme/archive-campus.php on line 18
+[09-Apr-2019 17:13:06 UTC] PHP Warning:  Illegal string offset 'lng' in /app/public/wp-content/themes/fictional-university-theme/archive-campus.php on line 18
+[09-Apr-2019 17:14:24 UTC] PHP Warning:  Use of undefined constant get_post_type - assumed 'get_post_type' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/fictional-university-theme/header.php on line 20
+[09-Apr-2019 17:14:24 UTC] PHP Warning:  Illegal string offset 'lat' in /app/public/wp-content/themes/fictional-university-theme/archive-campus.php on line 18
+[09-Apr-2019 17:14:24 UTC] PHP Warning:  Illegal string offset 'lng' in /app/public/wp-content/themes/fictional-university-theme/archive-campus.php on line 18
+[09-Apr-2019 17:14:24 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /app/public/wp-includes/shortcodes.php on line 180
+[09-Apr-2019 17:14:24 UTC] PHP Warning:  preg_match_all() expects parameter 2 to be string, array given in /app/public/wp-includes/shortcodes.php on line 189
+[09-Apr-2019 17:14:24 UTC] PHP Warning:  array_intersect(): Argument #2 is not an array in /app/public/wp-includes/shortcodes.php on line 190
+[09-Apr-2019 17:14:24 UTC] PHP Warning:  preg_split() expects parameter 2 to be string, array given in /app/public/wp-includes/formatting.php on line 621
+[09-Apr-2019 17:14:24 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /app/public/wp-includes/formatting.php on line 779
+[09-Apr-2019 17:14:24 UTC] PHP Warning:  preg_match() expects parameter 2 to be string, array given in /app/public/wp-includes/class-wp-embed.php on line 407
+[09-Apr-2019 17:14:24 UTC] PHP Warning:  preg_match_all() expects parameter 2 to be string, array given in /app/public/wp-includes/formatting.php on line 246
+[09-Apr-2019 17:14:24 UTC] PHP Warning:  array_intersect(): Argument #2 is not an array in /app/public/wp-includes/formatting.php on line 247
+[09-Apr-2019 17:14:24 UTC] PHP Warning:  preg_split() expects parameter 2 to be string, array given in /app/public/wp-includes/formatting.php on line 252
+[09-Apr-2019 17:14:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-includes/formatting.php on line 254
+[09-Apr-2019 17:14:24 UTC] PHP Warning:  implode(): Invalid arguments passed in /app/public/wp-includes/formatting.php on line 314
+[09-Apr-2019 17:14:24 UTC] PHP Warning:  Illegal string offset 'lat' in /app/public/wp-content/themes/fictional-university-theme/archive-campus.php on line 18
+[09-Apr-2019 17:14:24 UTC] PHP Warning:  Illegal string offset 'lng' in /app/public/wp-content/themes/fictional-university-theme/archive-campus.php on line 18
+[09-Apr-2019 17:14:42 UTC] PHP Warning:  Use of undefined constant get_post_type - assumed 'get_post_type' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/fictional-university-theme/header.php on line 20
+[09-Apr-2019 17:14:42 UTC] PHP Warning:  strpos() expects parameter 1 to be string, array given in /app/public/wp-includes/shortcodes.php on line 180
+[09-Apr-2019 17:14:42 UTC] PHP Warning:  preg_match_all() expects parameter 2 to be string, array given in /app/public/wp-includes/shortcodes.php on line 189
+[09-Apr-2019 17:14:42 UTC] PHP Warning:  array_intersect(): Argument #2 is not an array in /app/public/wp-includes/shortcodes.php on line 190
+[09-Apr-2019 17:14:42 UTC] PHP Warning:  preg_split() expects parameter 2 to be string, array given in /app/public/wp-includes/formatting.php on line 621
+[09-Apr-2019 17:14:42 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /app/public/wp-includes/formatting.php on line 779
+[09-Apr-2019 17:14:42 UTC] PHP Warning:  preg_match() expects parameter 2 to be string, array given in /app/public/wp-includes/class-wp-embed.php on line 407
+[09-Apr-2019 17:14:42 UTC] PHP Warning:  preg_match_all() expects parameter 2 to be string, array given in /app/public/wp-includes/formatting.php on line 246
+[09-Apr-2019 17:14:42 UTC] PHP Warning:  array_intersect(): Argument #2 is not an array in /app/public/wp-includes/formatting.php on line 247
+[09-Apr-2019 17:14:42 UTC] PHP Warning:  preg_split() expects parameter 2 to be string, array given in /app/public/wp-includes/formatting.php on line 252
+[09-Apr-2019 17:14:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-includes/formatting.php on line 254
+[09-Apr-2019 17:14:42 UTC] PHP Warning:  implode(): Invalid arguments passed in /app/public/wp-includes/formatting.php on line 314
+[09-Apr-2019 17:17:24 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /app/public/wp-content/themes/fictional-university-theme/archive-campus.php on line 19
+[09-Apr-2019 17:17:40 UTC] PHP Warning:  Use of undefined constant get_post_type - assumed 'get_post_type' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/fictional-university-theme/header.php on line 20
+[09-Apr-2019 17:18:14 UTC] PHP Warning:  Use of undefined constant get_post_type - assumed 'get_post_type' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/fictional-university-theme/header.php on line 20
+[09-Apr-2019 17:19:10 UTC] PHP Warning:  htmlspecialchars() expects parameter 1 to be string, array given in /app/public/wp-includes/formatting.php on line 4091
+[09-Apr-2019 17:21:51 UTC] PHP Warning:  htmlspecialchars() expects parameter 1 to be string, array given in /app/public/wp-includes/formatting.php on line 4091
+[09-Apr-2019 17:24:39 UTC] PHP Warning:  Use of undefined constant get_post_type - assumed 'get_post_type' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/fictional-university-theme/header.php on line 20
+[09-Apr-2019 17:24:45 UTC] PHP Warning:  Use of undefined constant get_post_type - assumed 'get_post_type' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/fictional-university-theme/header.php on line 20
+[09-Apr-2019 17:31:18 UTC] PHP Warning:  Use of undefined constant get_post_type - assumed 'get_post_type' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/fictional-university-theme/header.php on line 20
+[09-Apr-2019 17:33:00 UTC] PHP Warning:  Use of undefined constant get_post_type - assumed 'get_post_type' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/fictional-university-theme/header.php on line 20
+[09-Apr-2019 17:44:17 UTC] PHP Warning:  Use of undefined constant get_post_type - assumed 'get_post_type' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/fictional-university-theme/header.php on line 20
+[09-Apr-2019 17:46:52 UTC] PHP Warning:  Use of undefined constant get_post_type - assumed 'get_post_type' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/fictional-university-theme/header.php on line 20
+[09-Apr-2019 17:46:57 UTC] PHP Warning:  Use of undefined constant get_post_type - assumed 'get_post_type' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/fictional-university-theme/header.php on line 20
+[09-Apr-2019 17:46:57 UTC] PHP Warning:  Use of undefined constant get_post_type - assumed 'get_post_type' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/fictional-university-theme/header.php on line 20
+[09-Apr-2019 17:47:17 UTC] PHP Warning:  Use of undefined constant get_post_type - assumed 'get_post_type' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/fictional-university-theme/header.php on line 20
+[09-Apr-2019 17:48:13 UTC] PHP Warning:  Use of undefined constant get_post_type - assumed 'get_post_type' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/fictional-university-theme/header.php on line 20
+[09-Apr-2019 17:48:17 UTC] PHP Warning:  Use of undefined constant get_post_type - assumed 'get_post_type' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/fictional-university-theme/header.php on line 20
+[09-Apr-2019 17:48:18 UTC] PHP Warning:  Use of undefined constant get_post_type - assumed 'get_post_type' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/fictional-university-theme/header.php on line 20
+[09-Apr-2019 17:48:56 UTC] PHP Warning:  Use of undefined constant get_post_type - assumed 'get_post_type' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/fictional-university-theme/header.php on line 20
+[09-Apr-2019 17:50:48 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /app/public/wp-content/themes/fictional-university-theme/archive-campus.php on line 21
+[09-Apr-2019 17:50:59 UTC] PHP Warning:  Use of undefined constant get_post_type - assumed 'get_post_type' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/fictional-university-theme/header.php on line 20
+[09-Apr-2019 17:51:34 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /app/public/wp-content/themes/fictional-university-theme/archive-campus.php on line 20
+[09-Apr-2019 17:51:45 UTC] PHP Warning:  Use of undefined constant get_post_type - assumed 'get_post_type' (this will throw an Error in a future version of PHP) in /app/public/wp-content/themes/fictional-university-theme/header.php on line 20
